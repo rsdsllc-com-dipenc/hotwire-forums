@@ -26,3 +26,5 @@ group :development, :test do
   gem "debug", platforms: [:mri, :windows]
   gem "faker"
 end
+
+gem "devise", "~> 4.9"
